@@ -1,0 +1,19 @@
+@media only screen and (max-width: 580px )  {
+    #container{
+      height: 5000px;
+    }
+    #sidenav{
+        display: block;
+    }
+
+    #input{
+        display: none;
+    }
+
+    
+
+ 
+}
+#sidenav{
+    display: none;
+  }
